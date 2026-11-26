@@ -2,7 +2,7 @@
 
 Hệ thống nhận diện và đọc biển số xe Việt Nam theo thời gian thực, được thiết kế theo kiến trúc 2 giai đoạn (Detection + OCR) và tối ưu hóa để chạy mượt trên môi trường **CPU-only (Edge / Low-resource devices)** sử dụng **YOLO11**, **RapidOCR (ONNX Runtime)** và **Streamlit**.
 
-![Demo](assets/demo.png)
+
 
 ## ✨ Tính năng chính
 
