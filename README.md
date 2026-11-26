@@ -10,7 +10,7 @@ Hệ thống nhận diện và đọc biển số xe Việt Nam tối ưu chạy
 
 \- \[x] Khởi tạo cấu trúc dự án
 
-\- \[ ] Huấn luyện mô hình YOLO11n trên Google Colab \& Export OpenVINO/ONNX
+\- \[x] Huấn luyện mô hình YOLO11n trên Google Colab \& Export OpenVINO/ONNX
 
 \- \[ ] Xây dựng Pipeline phát hiện \& đọc ký tự (RapidOCR + Regex)
 
