@@ -1,0 +1,21 @@
+# Môi trường ảo Python
+.venv/
+venv/
+env/
+
+
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+
+datasets/
+runs/
+*.zip
+*.mp4
+*.avi
+
+
+.env
+.vscode/
+.ipynb_checkpoints/
